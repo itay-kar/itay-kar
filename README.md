@@ -15,7 +15,7 @@
 <h3> 📫 Contact Me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/eyalevi/)](http://www.linkedin.com/in/itaygrx)
-[![Gmail Badge](https://img.shields.io/badge/-happyeyal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happyeyal@gmail.com)](mailto:itaygrx@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-itaygrx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itaygrx@gmail.com)](mailto:itaygrx@gmail.com)
 <a href="https://he-il.facebook.com/itay.karavani.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>
 <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" height="20"/></a>
 
