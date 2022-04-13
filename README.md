@@ -9,9 +9,6 @@
   
 </h3>
 
-
-- 🌱 I’m currently learning JavaScript(ES6), React, HTML and CSS.
-
 <h3> 📫 Contact Me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/itay-karavani/)](http://www.linkedin.com/in/itay-karavani/)
