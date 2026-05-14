@@ -17,7 +17,7 @@
 - 🚀 Passionate about **DevOps** — automation, CI/CD, containerization, and infrastructure
 - 👨‍🏫 **4 years** teaching programming — strong communicator who makes complex topics click
 - 🌱 Currently deepening my knowledge in cloud infrastructure, Kubernetes, and DevOps practices
-- 📫 Reach me at **itaygrx@gmail.com**
+- 📫 Reach me at **itaykaravani1@gmail.com**
  
 ---
  
@@ -27,8 +27,8 @@
   <a href="http://www.linkedin.com/in/itay-karavani/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href="mailto:itaygrx@gmail.com">
-    <img src="https://img.shields.io/badge/-itaygrx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="mailto:itaykaravani1@gmail.com">
+    <img src="https://img.shields.io/badge/-itaykaravani1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"/>
