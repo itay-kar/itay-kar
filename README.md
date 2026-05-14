@@ -59,17 +59,7 @@
 #### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
  
 ---
  
-## 📈 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itay-kar&theme=slateorange&layout=compact" alt="top languages"/>
-</p>
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itay-kar&show_icons=true&theme=slateorange&layout=compact&line_height=20" alt="github stats"/>
-</p>
  
